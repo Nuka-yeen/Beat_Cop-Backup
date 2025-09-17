@@ -1,0 +1,4204 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-4335">
+    <generator>Inform Mac Client (Inform version 1.82/6.41/10.1.2)</generator>
+    <item nodeId="node-4335">
+        <command xml:space="preserve">BEAT_COP</command>
+        <result xml:space="preserve">
+
+
+
+You're a rookie cop whos been assigned to raid a criminals stash house for evidence of their crimes. You're looking for A Bomb they built, Volatile chemicals they were planning to mix, a Fake ID they were going to use to escape, and a bag of Cocaine they were stashing. Find all the evidence and bring the criminal to justice!
+
+BEAT COP
+An Interactive Fiction by Logan Williamson
+Release 1 / Serial number 250910 / Inform 7 v10.1.2 / D
+
+Front Lawn
+No point standing out here, time to kick the door in and search the building for evidence!
+
+You can see main door and a Fake Rock (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4552"></child>
+            <child nodeId="node-4550"></child>
+            <child nodeId="node-4539"></child>
+            <child nodeId="node-4536"></child>
+            <child nodeId="node-4585"></child>
+            <child nodeId="node-4578"></child>
+            <child nodeId="node-4678"></child>
+            <child nodeId="node-4521"></child>
+            <child nodeId="node-4660"></child>
+            <child nodeId="node-4954"></child>
+            <child nodeId="node-4347"></child>
+            <child nodeId="node-4345"></child>
+            <child nodeId="node-4344"></child>
+            <child nodeId="node-4647"></child>
+            <child nodeId="node-4341"></child>
+            <child nodeId="node-4336"></child>
+            <child nodeId="node-4641"></child>
+        </children>
+    </item>
+    <item nodeId="node-4641">
+        <command xml:space="preserve">x rock</command>
+        <result xml:space="preserve">In the Fake Rock is Entrance Key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4645"></child>
+            <child nodeId="node-4642"></child>
+        </children>
+    </item>
+    <item nodeId="node-4642">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4643"></child>
+        </children>
+    </item>
+    <item nodeId="node-4643">
+        <command xml:space="preserve">kick door</command>
+        <result xml:space="preserve">The door swings back instantly killing you
+
+
+    *** G A M E  O V E R. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4645">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">What do you want to take?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4646"></child>
+        </children>
+    </item>
+    <item nodeId="node-4646">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4336">
+        <command xml:space="preserve">x main door</command>
+        <result xml:space="preserve">thankfully you had the criminals keys from the station, It's unlocked
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4337"></child>
+        </children>
+    </item>
+    <item nodeId="node-4337">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Entrance
+You can see a main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4338"></child>
+        </children>
+    </item>
+    <item nodeId="node-4338">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening the main door)
+
+Front Lawn
+No point standing out here, time to kick the door in and search the building for evidence!
+
+You can see a main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4339"></child>
+        </children>
+    </item>
+    <item nodeId="node-4339">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Entrance
+You can see a main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4340"></child>
+        </children>
+    </item>
+    <item nodeId="node-4340">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Front Lawn
+No point standing out here, time to kick the door in and search the building for evidence!
+
+You can see a main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4341">
+        <command xml:space="preserve">x front lawn</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4342"></child>
+        </children>
+    </item>
+    <item nodeId="node-4342">
+        <command xml:space="preserve">x Front Lawn</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4343"></child>
+        </children>
+    </item>
+    <item nodeId="node-4343">
+        <command xml:space="preserve">x room</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4647">
+        <command xml:space="preserve">x fake rock</command>
+        <result xml:space="preserve">It seems like a plastic rock made for storing a spare key
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4648"></child>
+            <child nodeId="node-4952"></child>
+        </children>
+    </item>
+    <item nodeId="node-4952">
+        <command xml:space="preserve">open rock</command>
+        <result xml:space="preserve">You open the Fake Rock, revealing Entrance Key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4953"></child>
+        </children>
+    </item>
+    <item nodeId="node-4953">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4648">
+        <command xml:space="preserve">open fake rock</command>
+        <result xml:space="preserve">You open the Fake Rock, revealing Entrance Key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4649"></child>
+        </children>
+    </item>
+    <item nodeId="node-4649">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4650"></child>
+        </children>
+    </item>
+    <item nodeId="node-4650">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening main door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4651"></child>
+        </children>
+    </item>
+    <item nodeId="node-4651">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with Entrance Key)
+You unlock main door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4652"></child>
+        </children>
+    </item>
+    <item nodeId="node-4652">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening main door)
+
+Entrance
+You can see main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4653"></child>
+        </children>
+    </item>
+    <item nodeId="node-4653">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4654"></child>
+        </children>
+    </item>
+    <item nodeId="node-4654">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4655"></child>
+        </children>
+    </item>
+    <item nodeId="node-4655">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4656"></child>
+        </children>
+    </item>
+    <item nodeId="node-4656">
+        <command xml:space="preserve">x car</command>
+        <result xml:space="preserve">There's nothing on the car's seats, but there is a trunk that you haven't checked
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4657"></child>
+        </children>
+    </item>
+    <item nodeId="node-4657">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">strange it was left unlocked, theres an unarmed bomb inside
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4658"></child>
+        </children>
+    </item>
+    <item nodeId="node-4658">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Car)
+You're not superman dumbass.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4659"></child>
+        </children>
+    </item>
+    <item nodeId="node-4659">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4344">
+        <command xml:space="preserve">x Front Lawn</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4345">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4346"></child>
+        </children>
+    </item>
+    <item nodeId="node-4346">
+        <command xml:space="preserve">x Front Lawn</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4347">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening main door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4499"></child>
+            <child nodeId="node-4348"></child>
+        </children>
+    </item>
+    <item nodeId="node-4348">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening main door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4622"></child>
+            <child nodeId="node-4480"></child>
+            <child nodeId="node-4400"></child>
+            <child nodeId="node-4349"></child>
+        </children>
+    </item>
+    <item nodeId="node-4349">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4373"></child>
+            <child nodeId="node-4350"></child>
+        </children>
+    </item>
+    <item nodeId="node-4350">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4355"></child>
+            <child nodeId="node-4351"></child>
+        </children>
+    </item>
+    <item nodeId="node-4351">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bathroom
+You have to cover your nose to even remotely stand being in this room, tiles fall off the walls as mold and who knows what else covers the floor
+
+You can see a Toilet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4352"></child>
+        </children>
+    </item>
+    <item nodeId="node-4352">
+        <command xml:space="preserve">x toilet</command>
+        <result xml:space="preserve">(the Toilet)
+The toilet has a tank on it and a lid covering its bowl
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4353"></child>
+        </children>
+    </item>
+    <item nodeId="node-4353">
+        <command xml:space="preserve">remove lid</command>
+        <result xml:space="preserve">You aren't wearing toilet bowl lid.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4354"></child>
+        </children>
+    </item>
+    <item nodeId="node-4354">
+        <command xml:space="preserve">open lid</command>
+        <result xml:space="preserve">It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4355">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Darkness
+It is pitch dark, and you can't see a thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4370"></child>
+            <child nodeId="node-4369"></child>
+            <child nodeId="node-4366"></child>
+            <child nodeId="node-4365"></child>
+            <child nodeId="node-4362"></child>
+            <child nodeId="node-4356"></child>
+        </children>
+    </item>
+    <item nodeId="node-4356">
+        <command xml:space="preserve">x Closet</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4361"></child>
+            <child nodeId="node-4357"></child>
+        </children>
+    </item>
+    <item nodeId="node-4357">
+        <command xml:space="preserve">x closet</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4358"></child>
+        </children>
+    </item>
+    <item nodeId="node-4358">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4359"></child>
+        </children>
+    </item>
+    <item nodeId="node-4359">
+        <command xml:space="preserve">x bedroom</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4360"></child>
+        </children>
+    </item>
+    <item nodeId="node-4360">
+        <command xml:space="preserve">x Bedroom</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4361">
+        <command xml:space="preserve">inventory</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4362">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">The light clicks on, you can see a cardboard box up on a shelf and the other cord attached to an IED
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4363"></child>
+        </children>
+    </item>
+    <item nodeId="node-4363">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4364"></child>
+        </children>
+    </item>
+    <item nodeId="node-4364">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Closet
+ its dark in here, you feel two cords brush against your face .
+
+You can see Cord 1 and Cord 2 here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4365">
+        <command xml:space="preserve">pull cord 1</command>
+        <result xml:space="preserve">It was a trap! The house exploded!
+
+
+
+    *** G A M E  O V E R ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4366">
+        <command xml:space="preserve">pull Cord 2</command>
+        <result xml:space="preserve">The light clicks on, you can see a cardboard box up on a shelf and the other cord attached to an IED
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4367"></child>
+        </children>
+    </item>
+    <item nodeId="node-4367">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4368"></child>
+        </children>
+    </item>
+    <item nodeId="node-4368">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Closet
+ its dark in here, you feel two cords brush against your face .
+
+You can see Cord 1 and Cord 2 here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4369">
+        <command xml:space="preserve">examine closet</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4370">
+        <command xml:space="preserve">Pull Cord 2</command>
+        <result xml:space="preserve">The light clicks on, you can see a cardboard box up on a shelf and the other cord attached to an IED
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4371"></child>
+        </children>
+    </item>
+    <item nodeId="node-4371">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4372"></child>
+        </children>
+    </item>
+    <item nodeId="node-4372">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Closet
+ its dark in here, you feel two cords brush against your face .
+
+You can see Cord 1 and Cord 2 here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4373">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4394"></child>
+            <child nodeId="node-4374"></child>
+        </children>
+    </item>
+    <item nodeId="node-4374">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4375"></child>
+        </children>
+    </item>
+    <item nodeId="node-4375">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4376"></child>
+        </children>
+    </item>
+    <item nodeId="node-4376">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Closet
+You can see Cord 1, Cord 2 and Cardboard Box (in which is Fake ID) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4377"></child>
+        </children>
+    </item>
+    <item nodeId="node-4377">
+        <command xml:space="preserve">take ID</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4378"></child>
+        </children>
+    </item>
+    <item nodeId="node-4378">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4379"></child>
+        </children>
+    </item>
+    <item nodeId="node-4379">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Rifle)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4380"></child>
+        </children>
+    </item>
+    <item nodeId="node-4380">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bathroom
+You have to cover your nose to even remotely stand being in this room, tiles fall off the walls as mold and who knows what else covers the floor
+
+You can see a Toilet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4381"></child>
+        </children>
+    </item>
+    <item nodeId="node-4381">
+        <command xml:space="preserve">x tank</command>
+        <result xml:space="preserve">There's nothing on the car's seats, but there is a trunk that you haven't checked
+In toilet tank is cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4382"></child>
+        </children>
+    </item>
+    <item nodeId="node-4382">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(the Toilet)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4383"></child>
+        </children>
+    </item>
+    <item nodeId="node-4383">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4384"></child>
+        </children>
+    </item>
+    <item nodeId="node-4384">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4385"></child>
+        </children>
+    </item>
+    <item nodeId="node-4385">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4386"></child>
+        </children>
+    </item>
+    <item nodeId="node-4386">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4387"></child>
+        </children>
+    </item>
+    <item nodeId="node-4387">
+        <command xml:space="preserve">x car</command>
+        <result xml:space="preserve">There's nothing on the car's seats, but there is a trunk that you haven't checked
+You see nothing special about Car.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4388"></child>
+        </children>
+    </item>
+    <item nodeId="node-4388">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">strange it was left unlocked, theres an unarmed bomb inside
+There's nothing on the car's seats, but there is a trunk that you haven't checked
+You see nothing special about Trunk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4389"></child>
+        </children>
+    </item>
+    <item nodeId="node-4389">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Car)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4390"></child>
+        </children>
+    </item>
+    <item nodeId="node-4390">
+        <command xml:space="preserve">drop car</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4391"></child>
+        </children>
+    </item>
+    <item nodeId="node-4391">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4392"></child>
+        </children>
+    </item>
+    <item nodeId="node-4392">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">strange it was left unlocked, theres an unarmed bomb inside
+There's nothing on the car's seats, but there is a trunk that you haven't checked
+You see nothing special about Trunk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4393"></child>
+        </children>
+    </item>
+    <item nodeId="node-4393">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4394">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Basement
+You can see Convict 1 here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4395"></child>
+        </children>
+    </item>
+    <item nodeId="node-4395">
+        <command xml:space="preserve">attack</command>
+        <result xml:space="preserve">(Convict 1)
+You attack Convict 1, causing 22 points of damage!
+
+Convict 1 attacks you, causing 29 points of damage!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4396"></child>
+        </children>
+    </item>
+    <item nodeId="node-4396">
+        <command xml:space="preserve">attack</command>
+        <result xml:space="preserve">(Convict 1)
+You attack Convict 1, causing 38 points of damage!
+
+Convict 1 attacks you, causing 19 points of damage!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4397"></child>
+        </children>
+    </item>
+    <item nodeId="node-4397">
+        <command xml:space="preserve">attack</command>
+        <result xml:space="preserve">(Convict 1)
+You attack Convict 1, causing 36 points of damage!
+
+Convict 1 attacks you, causing 28 points of damage!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4399"></child>
+            <child nodeId="node-4398"></child>
+        </children>
+    </item>
+    <item nodeId="node-4398">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4399">
+        <command xml:space="preserve">attack</command>
+        <result xml:space="preserve">(Convict 1)
+You attack Convict 1, causing 28 points of damage!
+
+Convict 1 lies on the ground dead
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4400">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4475"></child>
+            <child nodeId="node-4447"></child>
+            <child nodeId="node-4401"></child>
+        </children>
+    </item>
+    <item nodeId="node-4401">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">strange it was left unlocked, theres an unarmed bomb inside
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4433"></child>
+            <child nodeId="node-4402"></child>
+        </children>
+    </item>
+    <item nodeId="node-4402">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4419"></child>
+            <child nodeId="node-4405"></child>
+            <child nodeId="node-4403"></child>
+        </children>
+    </item>
+    <item nodeId="node-4403">
+        <command xml:space="preserve">take Bomb</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4404"></child>
+        </children>
+    </item>
+    <item nodeId="node-4404">
+        <command xml:space="preserve">Take trunk</command>
+        <result xml:space="preserve">That seems to be a part of Car.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4405">
+        <command xml:space="preserve">open trunk</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4406"></child>
+        </children>
+    </item>
+    <item nodeId="node-4406">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4407"></child>
+        </children>
+    </item>
+    <item nodeId="node-4407">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4408"></child>
+        </children>
+    </item>
+    <item nodeId="node-4408">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4409"></child>
+        </children>
+    </item>
+    <item nodeId="node-4409">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4410"></child>
+        </children>
+    </item>
+    <item nodeId="node-4410">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4411"></child>
+        </children>
+    </item>
+    <item nodeId="node-4411">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">
+Attic
+You can see Trunk key here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4412"></child>
+        </children>
+    </item>
+    <item nodeId="node-4412">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Trunk key)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4413"></child>
+        </children>
+    </item>
+    <item nodeId="node-4413">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4414"></child>
+        </children>
+    </item>
+    <item nodeId="node-4414">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4415"></child>
+        </children>
+    </item>
+    <item nodeId="node-4415">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4416"></child>
+        </children>
+    </item>
+    <item nodeId="node-4416">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4417"></child>
+        </children>
+    </item>
+    <item nodeId="node-4417">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">(Trunk key)
+You see nothing special about Trunk key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4418"></child>
+        </children>
+    </item>
+    <item nodeId="node-4418">
+        <command xml:space="preserve">open trunk</command>
+        <result xml:space="preserve">(Trunk key)
+It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4419">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4420"></child>
+        </children>
+    </item>
+    <item nodeId="node-4420">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4421"></child>
+        </children>
+    </item>
+    <item nodeId="node-4421">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Volatile chemicals)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4422"></child>
+        </children>
+    </item>
+    <item nodeId="node-4422">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4423"></child>
+        </children>
+    </item>
+    <item nodeId="node-4423">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4424"></child>
+        </children>
+    </item>
+    <item nodeId="node-4424">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4425"></child>
+        </children>
+    </item>
+    <item nodeId="node-4425">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4426"></child>
+        </children>
+    </item>
+    <item nodeId="node-4426">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4427"></child>
+        </children>
+    </item>
+    <item nodeId="node-4427">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bathroom
+You have to cover your nose to even remotely stand being in this room, tiles fall off the walls as mold and who knows what else covers the floor
+
+You can see a Toilet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4428"></child>
+        </children>
+    </item>
+    <item nodeId="node-4428">
+        <command xml:space="preserve">x tank</command>
+        <result xml:space="preserve">In toilet tank is cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4429"></child>
+        </children>
+    </item>
+    <item nodeId="node-4429">
+        <command xml:space="preserve">take cocaine</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4430"></child>
+        </children>
+    </item>
+    <item nodeId="node-4430">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4431"></child>
+        </children>
+    </item>
+    <item nodeId="node-4431">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Closet
+You can see Cord 1, Cord 2 and Cardboard Box (in which is Fake ID) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4432"></child>
+        </children>
+    </item>
+    <item nodeId="node-4432">
+        <command xml:space="preserve">take Fake ID</command>
+        <result xml:space="preserve">Taken.
+
+
+
+    *** You found all the evidence! Now the criminal can face justice. !!YOU WIN!! G A M E  O V E R. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4433">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Car)
+You're not superman dumbass.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4434"></child>
+        </children>
+    </item>
+    <item nodeId="node-4434">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4435"></child>
+        </children>
+    </item>
+    <item nodeId="node-4435">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4436"></child>
+        </children>
+    </item>
+    <item nodeId="node-4436">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4437"></child>
+        </children>
+    </item>
+    <item nodeId="node-4437">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Volatile chemicals)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4438"></child>
+        </children>
+    </item>
+    <item nodeId="node-4438">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4439"></child>
+        </children>
+    </item>
+    <item nodeId="node-4439">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Entrance
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4440"></child>
+        </children>
+    </item>
+    <item nodeId="node-4440">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4441"></child>
+        </children>
+    </item>
+    <item nodeId="node-4441">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4442"></child>
+        </children>
+    </item>
+    <item nodeId="node-4442">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4443"></child>
+        </children>
+    </item>
+    <item nodeId="node-4443">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Rifle)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4444"></child>
+        </children>
+    </item>
+    <item nodeId="node-4444">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bathroom
+You have to cover your nose to even remotely stand being in this room, tiles fall off the walls as mold and who knows what else covers the floor
+
+You can see a Toilet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4445"></child>
+        </children>
+    </item>
+    <item nodeId="node-4445">
+        <command xml:space="preserve">x tank</command>
+        <result xml:space="preserve">In toilet tank is cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4446"></child>
+        </children>
+    </item>
+    <item nodeId="node-4446">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(the Toilet)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4447">
+        <command xml:space="preserve">x car</command>
+        <result xml:space="preserve">There's nothing on the car's seats, but there is a trunk that you haven't checked
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4448"></child>
+        </children>
+    </item>
+    <item nodeId="node-4448">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">strange it was left unlocked, theres an unarmed bomb inside
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4450"></child>
+            <child nodeId="node-4449"></child>
+        </children>
+    </item>
+    <item nodeId="node-4449">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4450">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4451"></child>
+        </children>
+    </item>
+    <item nodeId="node-4451">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4452"></child>
+        </children>
+    </item>
+    <item nodeId="node-4452">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4453"></child>
+        </children>
+    </item>
+    <item nodeId="node-4453">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Attic
+You can see Trunk key here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4454"></child>
+        </children>
+    </item>
+    <item nodeId="node-4454">
+        <command xml:space="preserve">take trunk key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4455"></child>
+        </children>
+    </item>
+    <item nodeId="node-4455">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4456"></child>
+        </children>
+    </item>
+    <item nodeId="node-4456">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4457"></child>
+        </children>
+    </item>
+    <item nodeId="node-4457">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4458"></child>
+        </children>
+    </item>
+    <item nodeId="node-4458">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4459"></child>
+        </children>
+    </item>
+    <item nodeId="node-4459">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bathroom
+You have to cover your nose to even remotely stand being in this room, tiles fall off the walls as mold and who knows what else covers the floor
+
+You can see a Toilet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4460"></child>
+        </children>
+    </item>
+    <item nodeId="node-4460">
+        <command xml:space="preserve">x toilet tank</command>
+        <result xml:space="preserve">There's nothing on the car's seats, but htere is a trunk that you haven't checked
+In toilet tank is cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4461"></child>
+        </children>
+    </item>
+    <item nodeId="node-4461">
+        <command xml:space="preserve">take cocaine</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4462"></child>
+        </children>
+    </item>
+    <item nodeId="node-4462">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4463"></child>
+        </children>
+    </item>
+    <item nodeId="node-4463">
+        <command xml:space="preserve">inventory</command>
+        <result xml:space="preserve">You are carrying:
+  cocaine
+  Trunk key
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4464"></child>
+        </children>
+    </item>
+    <item nodeId="node-4464">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4465"></child>
+        </children>
+    </item>
+    <item nodeId="node-4465">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4466"></child>
+        </children>
+    </item>
+    <item nodeId="node-4466">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4467"></child>
+        </children>
+    </item>
+    <item nodeId="node-4467">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4468"></child>
+        </children>
+    </item>
+    <item nodeId="node-4468">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4469"></child>
+        </children>
+    </item>
+    <item nodeId="node-4469">
+        <command xml:space="preserve">take chemicals</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4470"></child>
+        </children>
+    </item>
+    <item nodeId="node-4470">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4471"></child>
+        </children>
+    </item>
+    <item nodeId="node-4471">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4472"></child>
+        </children>
+    </item>
+    <item nodeId="node-4472">
+        <command xml:space="preserve">use trunk key on trunk</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4473"></child>
+        </children>
+    </item>
+    <item nodeId="node-4473">
+        <command xml:space="preserve">Use trunk key</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4474"></child>
+        </children>
+    </item>
+    <item nodeId="node-4474">
+        <command xml:space="preserve">open trunk</command>
+        <result xml:space="preserve">(Trunk key)
+It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4475">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Car)
+You're not superman dumbass.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4476"></child>
+        </children>
+    </item>
+    <item nodeId="node-4476">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4477"></child>
+        </children>
+    </item>
+    <item nodeId="node-4477">
+        <command xml:space="preserve">take Fake ID</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4478"></child>
+        </children>
+    </item>
+    <item nodeId="node-4478">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">strange it was left unlocked, theres an unarmed bomb inside
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4479"></child>
+        </children>
+    </item>
+    <item nodeId="node-4479">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4480">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4485"></child>
+            <child nodeId="node-4481"></child>
+        </children>
+    </item>
+    <item nodeId="node-4481">
+        <command xml:space="preserve">take chemicals</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4482"></child>
+        </children>
+    </item>
+    <item nodeId="node-4482">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4483"></child>
+        </children>
+    </item>
+    <item nodeId="node-4483">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4484"></child>
+        </children>
+    </item>
+    <item nodeId="node-4484">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">You see nothing special about Trunk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4485">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Volatile chemicals)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4486"></child>
+        </children>
+    </item>
+    <item nodeId="node-4486">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4487"></child>
+        </children>
+    </item>
+    <item nodeId="node-4487">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4488"></child>
+        </children>
+    </item>
+    <item nodeId="node-4488">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4489"></child>
+        </children>
+    </item>
+    <item nodeId="node-4489">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Attic
+You can see Trunk key here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4490"></child>
+        </children>
+    </item>
+    <item nodeId="node-4490">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Trunk key)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4491"></child>
+        </children>
+    </item>
+    <item nodeId="node-4491">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4492"></child>
+        </children>
+    </item>
+    <item nodeId="node-4492">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4493"></child>
+        </children>
+    </item>
+    <item nodeId="node-4493">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4494"></child>
+        </children>
+    </item>
+    <item nodeId="node-4494">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4495"></child>
+        </children>
+    </item>
+    <item nodeId="node-4495">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4496"></child>
+        </children>
+    </item>
+    <item nodeId="node-4496">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4497"></child>
+        </children>
+    </item>
+    <item nodeId="node-4497">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4498"></child>
+        </children>
+    </item>
+    <item nodeId="node-4498">
+        <command xml:space="preserve">open trunk</command>
+        <result xml:space="preserve">(Trunk key)
+It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4622">
+        <command xml:space="preserve">examine main door</command>
+        <result xml:space="preserve">(main door)
+ The criminal must have locked the door behind them! There might be a key around to get in though. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4623"></child>
+        </children>
+    </item>
+    <item nodeId="node-4623">
+        <command xml:space="preserve">x main door</command>
+        <result xml:space="preserve">(main door)
+ The criminal must have locked the door behind them! There might be a key around to get in though. 
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4624"></child>
+        </children>
+    </item>
+    <item nodeId="node-4624">
+        <command xml:space="preserve">x fake rock</command>
+        <result xml:space="preserve">In Fake Rock is Main Door Key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4625"></child>
+        </children>
+    </item>
+    <item nodeId="node-4625">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">What do you want to take?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4626"></child>
+        </children>
+    </item>
+    <item nodeId="node-4626">
+        <command xml:space="preserve">door key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4627"></child>
+        </children>
+    </item>
+    <item nodeId="node-4627">
+        <command xml:space="preserve">use door key on main door</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4628"></child>
+        </children>
+    </item>
+    <item nodeId="node-4628">
+        <command xml:space="preserve">unlock main door</command>
+        <result xml:space="preserve">(Main Door Key with Main Door Key)
+That doesn't seem to be something you can unlock.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4629"></child>
+        </children>
+    </item>
+    <item nodeId="node-4629">
+        <command xml:space="preserve">kick main door</command>
+        <result xml:space="preserve">(Main Door Key)
+Main Door Key is not something you can kick.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4630"></child>
+        </children>
+    </item>
+    <item nodeId="node-4630">
+        <command xml:space="preserve">kick door</command>
+        <result xml:space="preserve">(Main Door Key)
+Main Door Key is not something you can kick.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4631"></child>
+        </children>
+    </item>
+    <item nodeId="node-4631">
+        <command xml:space="preserve">kick Door</command>
+        <result xml:space="preserve">(Main Door Key)
+Main Door Key is not something you can kick.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4632"></child>
+        </children>
+    </item>
+    <item nodeId="node-4632">
+        <command xml:space="preserve">drop key</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4633"></child>
+        </children>
+    </item>
+    <item nodeId="node-4633">
+        <command xml:space="preserve">kick door</command>
+        <result xml:space="preserve">Which do you mean, Main Door Key or main door?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4634"></child>
+        </children>
+    </item>
+    <item nodeId="node-4634">
+        <command xml:space="preserve">kick main door</command>
+        <result xml:space="preserve">Which do you mean, Main Door Key or main door?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4499">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4500"></child>
+        </children>
+    </item>
+    <item nodeId="node-4500">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4501"></child>
+        </children>
+    </item>
+    <item nodeId="node-4501">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4502"></child>
+        </children>
+    </item>
+    <item nodeId="node-4502">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">strange it was left unlocked, theres an unarmed bomb inside
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4503"></child>
+        </children>
+    </item>
+    <item nodeId="node-4503">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Car)
+You're not superman dumbass.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4504"></child>
+        </children>
+    </item>
+    <item nodeId="node-4504">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4505"></child>
+        </children>
+    </item>
+    <item nodeId="node-4505">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4506"></child>
+        </children>
+    </item>
+    <item nodeId="node-4506">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4507"></child>
+        </children>
+    </item>
+    <item nodeId="node-4507">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Volatile chemicals)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4508"></child>
+        </children>
+    </item>
+    <item nodeId="node-4508">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4509"></child>
+        </children>
+    </item>
+    <item nodeId="node-4509">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4510"></child>
+        </children>
+    </item>
+    <item nodeId="node-4510">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4511"></child>
+        </children>
+    </item>
+    <item nodeId="node-4511">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4512"></child>
+        </children>
+    </item>
+    <item nodeId="node-4512">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Rifle)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4513"></child>
+        </children>
+    </item>
+    <item nodeId="node-4513">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bathroom
+You have to cover your nose to even remotely stand being in this room, tiles fall off the walls as mold and who knows what else covers the floor
+
+You can see a Toilet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4514"></child>
+        </children>
+    </item>
+    <item nodeId="node-4514">
+        <command xml:space="preserve">x tank</command>
+        <result xml:space="preserve">In toilet tank is cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4515"></child>
+        </children>
+    </item>
+    <item nodeId="node-4515">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(the Toilet)
+why.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4516"></child>
+        </children>
+    </item>
+    <item nodeId="node-4516">
+        <command xml:space="preserve">take cocaine</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4517"></child>
+        </children>
+    </item>
+    <item nodeId="node-4517">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4518"></child>
+        </children>
+    </item>
+    <item nodeId="node-4518">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Closet
+You can see Cord 1, Cord 2 and Cardboard Box (in which is Fake ID) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4519"></child>
+        </children>
+    </item>
+    <item nodeId="node-4519">
+        <command xml:space="preserve">tkae fake ID</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4520"></child>
+        </children>
+    </item>
+    <item nodeId="node-4520">
+        <command xml:space="preserve">Take Fake ID</command>
+        <result xml:space="preserve">Taken.
+
+You found all the evidence! Now the criminal can face justice. !!YOU WIN!! G A M E  O V E R.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4954">
+        <command xml:space="preserve">take rock</command>
+        <result xml:space="preserve">That's fixed in place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4955"></child>
+        </children>
+    </item>
+    <item nodeId="node-4955">
+        <command xml:space="preserve">open rock</command>
+        <result xml:space="preserve">You open the Fake Rock, revealing Entrance Key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4956"></child>
+        </children>
+    </item>
+    <item nodeId="node-4956">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">What do you want to take?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4957"></child>
+        </children>
+    </item>
+    <item nodeId="node-4957">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4958"></child>
+        </children>
+    </item>
+    <item nodeId="node-4958">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with Entrance Key)
+You unlock main door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4660">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4661"></child>
+        </children>
+    </item>
+    <item nodeId="node-4661">
+        <command xml:space="preserve">x rock</command>
+        <result xml:space="preserve">You see nothing special about the Fake Rock.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4662"></child>
+        </children>
+    </item>
+    <item nodeId="node-4662">
+        <command xml:space="preserve">open rock</command>
+        <result xml:space="preserve">You open the Fake Rock, revealing Entrance Key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4663"></child>
+        </children>
+    </item>
+    <item nodeId="node-4663">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4664"></child>
+        </children>
+    </item>
+    <item nodeId="node-4664">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with Entrance Key)
+You unlock main door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4665"></child>
+        </children>
+    </item>
+    <item nodeId="node-4665">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening main door)
+
+Entrance
+You can see main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4666"></child>
+        </children>
+    </item>
+    <item nodeId="node-4666">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4667"></child>
+        </children>
+    </item>
+    <item nodeId="node-4667">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4668"></child>
+        </children>
+    </item>
+    <item nodeId="node-4668">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4669"></child>
+        </children>
+    </item>
+    <item nodeId="node-4669">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4670"></child>
+        </children>
+    </item>
+    <item nodeId="node-4670">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Attic
+You can see Trunk key here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4671"></child>
+        </children>
+    </item>
+    <item nodeId="node-4671">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Trunk key)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4672"></child>
+        </children>
+    </item>
+    <item nodeId="node-4672">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4673"></child>
+        </children>
+    </item>
+    <item nodeId="node-4673">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4674"></child>
+        </children>
+    </item>
+    <item nodeId="node-4674">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4675"></child>
+        </children>
+    </item>
+    <item nodeId="node-4675">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4676"></child>
+        </children>
+    </item>
+    <item nodeId="node-4676">
+        <command xml:space="preserve">x car</command>
+        <result xml:space="preserve">There's nothing on the car's seats, but there is a trunk that you haven't checked
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4677"></child>
+        </children>
+    </item>
+    <item nodeId="node-4677">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">(Trunk key)
+You see nothing special about Trunk key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4521">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bathroom
+Take a shit and leave
+
+You can see toilet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4532"></child>
+            <child nodeId="node-4530"></child>
+            <child nodeId="node-4528"></child>
+            <child nodeId="node-4523"></child>
+            <child nodeId="node-4522"></child>
+        </children>
+    </item>
+    <item nodeId="node-4522">
+        <command xml:space="preserve">x toilet tank</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4523">
+        <command xml:space="preserve">x toilet</command>
+        <result xml:space="preserve">(toilet)
+You see nothing special about toilet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4524"></child>
+        </children>
+    </item>
+    <item nodeId="node-4524">
+        <command xml:space="preserve">x toilet tank</command>
+        <result xml:space="preserve">In toilet tank is cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4525"></child>
+        </children>
+    </item>
+    <item nodeId="node-4525">
+        <command xml:space="preserve">take cocaine</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4526"></child>
+        </children>
+    </item>
+    <item nodeId="node-4526">
+        <command xml:space="preserve">x cocaine</command>
+        <result xml:space="preserve">You see nothing special about cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4527"></child>
+        </children>
+    </item>
+    <item nodeId="node-4527">
+        <command xml:space="preserve">eat cocaine</command>
+        <result xml:space="preserve">What are you, a filthy drug addict?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4528">
+        <command xml:space="preserve">punch toilet</command>
+        <result xml:space="preserve">Violence isn't the answer to this one.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4529"></child>
+        </children>
+    </item>
+    <item nodeId="node-4529">
+        <command xml:space="preserve">sit on toilet</command>
+        <result xml:space="preserve">That's not something you can sit down on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4530">
+        <command xml:space="preserve">inspect toilet</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4531"></child>
+        </children>
+    </item>
+    <item nodeId="node-4531">
+        <command xml:space="preserve">x toilet</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4532">
+        <command xml:space="preserve">examine toilet</command>
+        <result xml:space="preserve">(toilet)
+The toilet has a tank on it and a lid covering its bowl
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4533"></child>
+        </children>
+    </item>
+    <item nodeId="node-4533">
+        <command xml:space="preserve">x toilet tank</command>
+        <result xml:space="preserve">In toilet tank is cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4534"></child>
+        </children>
+    </item>
+    <item nodeId="node-4534">
+        <command xml:space="preserve">take cocaine</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4535"></child>
+        </children>
+    </item>
+    <item nodeId="node-4535">
+        <command xml:space="preserve">x cocaine</command>
+        <result xml:space="preserve">You see nothing special about cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4678">
+        <command xml:space="preserve">open rock</command>
+        <result xml:space="preserve">You open the Fake Rock, revealing Entrance Key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4679"></child>
+        </children>
+    </item>
+    <item nodeId="node-4679">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4680"></child>
+        </children>
+    </item>
+    <item nodeId="node-4680">
+        <command xml:space="preserve">unlock door</command>
+        <result xml:space="preserve">(with Entrance Key)
+You unlock main door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4681"></child>
+        </children>
+    </item>
+    <item nodeId="node-4681">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening main door)
+
+Entrance
+You can see main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4682"></child>
+            <child nodeId="node-4963"></child>
+        </children>
+    </item>
+    <item nodeId="node-4963">
+        <command xml:space="preserve">ww</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4964"></child>
+        </children>
+    </item>
+    <item nodeId="node-4964">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4965"></child>
+        </children>
+    </item>
+    <item nodeId="node-4965">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4966"></child>
+        </children>
+    </item>
+    <item nodeId="node-4966">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals and Cabinets (closed) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4967"></child>
+        </children>
+    </item>
+    <item nodeId="node-4967">
+        <command xml:space="preserve">open cabinets</command>
+        <result xml:space="preserve">You hear a string snap and a loud beep before a hidden bomb destroys the entire house, now there can't be any justice!
+
+
+
+    *** G A M E  O V E R ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4682">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4683"></child>
+            <child nodeId="node-4973"></child>
+        </children>
+    </item>
+    <item nodeId="node-4973">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4974"></child>
+        </children>
+    </item>
+    <item nodeId="node-4974">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4975"></child>
+        </children>
+    </item>
+    <item nodeId="node-4975">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Closet
+you can see Cord 1 is attached to an IED.
+
+You can see Cord 1, Cord 2 and Cardboard Box here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4976"></child>
+        </children>
+    </item>
+    <item nodeId="node-4976">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">You switch Cord 2 on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4977"></child>
+            <child nodeId="node-5000"></child>
+        </children>
+    </item>
+    <item nodeId="node-5000">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">You switch Cord 2 off.
+
+It is now pitch dark in here!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5001"></child>
+        </children>
+    </item>
+    <item nodeId="node-5001">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">You switch Cord 2 on.
+
+Closet
+you can see Cord 1 is attached to an IED.
+
+You can see Cord 1, Cord 2 and Cardboard Box here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5002"></child>
+        </children>
+    </item>
+    <item nodeId="node-5002">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">You switch Cord 2 off.
+
+It is now pitch dark in here!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5003"></child>
+        </children>
+    </item>
+    <item nodeId="node-5003">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">You switch Cord 2 on.
+
+Closet
+you can see Cord 1 is attached to an IED.
+
+You can see Cord 1, Cord 2 and Cardboard Box here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5017"></child>
+        </children>
+    </item>
+    <item nodeId="node-5017">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">You switch Cord 2 off.
+
+It is now pitch dark in here!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5206"></child>
+            <child nodeId="node-5032"></child>
+        </children>
+    </item>
+    <item nodeId="node-5032">
+        <command xml:space="preserve">x closet</command>
+        <result xml:space="preserve">you feel two cords brush against your face.
+You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-5048"></child>
+        </children>
+    </item>
+    <item nodeId="node-5048">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">you feel two cords brush against your face.
+
+you can see a cardboard box up on a shelf and the other cord attached to an IED.
+
+You switch Cord 2 on.
+
+Closet
+you can see a cardboard box up on a shelf and Cord 1 attached to an IED.
+
+You can see Cord 1, Cord 2 and Cardboard Box here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-5206">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">You switch Cord 2 on.
+
+Closet
+you can see Cord 1 is attached to an IED.
+
+You can see Cord 1, Cord 2 and Cardboard Box here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4977">
+        <command xml:space="preserve">pull cord 1</command>
+        <result xml:space="preserve">It was a trap! The house exploded!
+
+
+
+    *** G A M E  O V E R ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4978"></child>
+        </children>
+    </item>
+    <item nodeId="node-4978">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Darkness
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4979"></child>
+        </children>
+    </item>
+    <item nodeId="node-4979">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">The light clicks on, you can see a cardboard box up on a shelf and the other cord attached to an IED
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4980"></child>
+        </children>
+    </item>
+    <item nodeId="node-4980">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4981"></child>
+        </children>
+    </item>
+    <item nodeId="node-4981">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Darkness
+It is pitch dark, and you can't see a thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4982"></child>
+        </children>
+    </item>
+    <item nodeId="node-4982">
+        <command xml:space="preserve">pull cord 2</command>
+        <result xml:space="preserve">The light clicks on, you can see a cardboard box up on a shelf and the other cord attached to an IED
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4683">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4684"></child>
+        </children>
+    </item>
+    <item nodeId="node-4684">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4685"></child>
+        </children>
+    </item>
+    <item nodeId="node-4685">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4686"></child>
+        </children>
+    </item>
+    <item nodeId="node-4686">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4687"></child>
+        </children>
+    </item>
+    <item nodeId="node-4687">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4688"></child>
+        </children>
+    </item>
+    <item nodeId="node-4688">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Attic
+You can see Trunk key here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4689"></child>
+        </children>
+    </item>
+    <item nodeId="node-4689">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Trunk key)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4690"></child>
+        </children>
+    </item>
+    <item nodeId="node-4690">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4691"></child>
+        </children>
+    </item>
+    <item nodeId="node-4691">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4692"></child>
+        </children>
+    </item>
+    <item nodeId="node-4692">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4693"></child>
+        </children>
+    </item>
+    <item nodeId="node-4693">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4694"></child>
+        </children>
+    </item>
+    <item nodeId="node-4694">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">(Trunk key)
+You see nothing special about Trunk key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4695"></child>
+        </children>
+    </item>
+    <item nodeId="node-4695">
+        <command xml:space="preserve">x car trunk</command>
+        <result xml:space="preserve">You see nothing special about Car Trunk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4696"></child>
+        </children>
+    </item>
+    <item nodeId="node-4696">
+        <command xml:space="preserve">x car trunk</command>
+        <result xml:space="preserve">You see nothing special about Car Trunk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4716"></child>
+        </children>
+    </item>
+    <item nodeId="node-4716">
+        <command xml:space="preserve">open car trunk</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4717"></child>
+        </children>
+    </item>
+    <item nodeId="node-4717">
+        <command xml:space="preserve">unlock car trunk</command>
+        <result xml:space="preserve">What do you want to unlock Car Trunk with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4718"></child>
+        </children>
+    </item>
+    <item nodeId="node-4718">
+        <command xml:space="preserve">unlock car trunk with trunk key</command>
+        <result xml:space="preserve">You unlock Car Trunk.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4719"></child>
+        </children>
+    </item>
+    <item nodeId="node-4719">
+        <command xml:space="preserve">open car trunk</command>
+        <result xml:space="preserve">You open Car Trunk, revealing a Bomb.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4720"></child>
+        </children>
+    </item>
+    <item nodeId="node-4720">
+        <command xml:space="preserve">Take</command>
+        <result xml:space="preserve">(Car)
+You're not superman dumbass.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4721"></child>
+        </children>
+    </item>
+    <item nodeId="node-4721">
+        <command xml:space="preserve">Take Bomb</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4747"></child>
+        </children>
+    </item>
+    <item nodeId="node-4747">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4748"></child>
+        </children>
+    </item>
+    <item nodeId="node-4748">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4749"></child>
+        </children>
+    </item>
+    <item nodeId="node-4749">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(Volatile chemicals)
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4750"></child>
+        </children>
+    </item>
+    <item nodeId="node-4750">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4751"></child>
+        </children>
+    </item>
+    <item nodeId="node-4751">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Entrance
+You can see main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4752"></child>
+        </children>
+    </item>
+    <item nodeId="node-4752">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Front Lawn
+No point standing out here, time to kick the door in and search the building for evidence!
+
+You can see main door and a Fake Rock (empty) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4753"></child>
+        </children>
+    </item>
+    <item nodeId="node-4753">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Entrance
+You can see main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4754"></child>
+        </children>
+    </item>
+    <item nodeId="node-4754">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4755"></child>
+        </children>
+    </item>
+    <item nodeId="node-4755">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4756"></child>
+        </children>
+    </item>
+    <item nodeId="node-4756">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4757"></child>
+        </children>
+    </item>
+    <item nodeId="node-4757">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bathroom
+You have to cover your nose to even remotely stand being in this room, tiles fall off the walls as mold and who knows what else covers the floor
+
+You can see a Toilet here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4758"></child>
+        </children>
+    </item>
+    <item nodeId="node-4758">
+        <command xml:space="preserve">examine toilet tank</command>
+        <result xml:space="preserve">In toilet tank is cocaine.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4759"></child>
+        </children>
+    </item>
+    <item nodeId="node-4759">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">(the Toilet)
+why.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4760"></child>
+        </children>
+    </item>
+    <item nodeId="node-4760">
+        <command xml:space="preserve">take cocaine</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4761"></child>
+        </children>
+    </item>
+    <item nodeId="node-4761">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Bedroom
+It's a bedroom, you're either sleeping or leaving. The bedroom looks to be in shambles with only a Closet, Dresser, and Nightstand being noteworthy enough to search. There's a bathroom to the South with the Closet being to the North
+
+You can see Rifle here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4762"></child>
+        </children>
+    </item>
+    <item nodeId="node-4762">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4763"></child>
+        </children>
+    </item>
+    <item nodeId="node-4763">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4764"></child>
+        </children>
+    </item>
+    <item nodeId="node-4764">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Basement
+You can see Convict here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4765"></child>
+        </children>
+    </item>
+    <item nodeId="node-4765">
+        <command xml:space="preserve">attack</command>
+        <result xml:space="preserve">What do you want to attack?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4766"></child>
+        </children>
+    </item>
+    <item nodeId="node-4766">
+        <command xml:space="preserve">attack convict</command>
+        <result xml:space="preserve">You attack Convict, causing 43 points of damage!
+
+Convict attacks you, causing 30 points of damage!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4767"></child>
+        </children>
+    </item>
+    <item nodeId="node-4767">
+        <command xml:space="preserve">attack</command>
+        <result xml:space="preserve">What do you want to attack?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4768"></child>
+        </children>
+    </item>
+    <item nodeId="node-4768">
+        <command xml:space="preserve">attack convict</command>
+        <result xml:space="preserve">You attack Convict, causing 28 points of damage!
+
+Convict attacks you, causing 22 points of damage!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4940"></child>
+        </children>
+    </item>
+    <item nodeId="node-4940">
+        <command xml:space="preserve">attack convict</command>
+        <result xml:space="preserve">You attack Convict, causing 24 points of damage!
+
+Convict attacks you, causing 28 points of damage!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4941"></child>
+        </children>
+    </item>
+    <item nodeId="node-4941">
+        <command xml:space="preserve">attack</command>
+        <result xml:space="preserve">What do you want to attack?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4942"></child>
+        </children>
+    </item>
+    <item nodeId="node-4942">
+        <command xml:space="preserve">attack convict</command>
+        <result xml:space="preserve">You attack Convict, causing 40 points of damage!
+
+Convict lies on the ground dead
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4943"></child>
+        </children>
+    </item>
+    <item nodeId="node-4943">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4944"></child>
+        </children>
+    </item>
+    <item nodeId="node-4944">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Basement
+You can see Convicts Body here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4945"></child>
+        </children>
+    </item>
+    <item nodeId="node-4945">
+        <command xml:space="preserve">x convict body</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4946"></child>
+        </children>
+    </item>
+    <item nodeId="node-4946">
+        <command xml:space="preserve">x convicts body</command>
+        <result xml:space="preserve">You see nothing special about Convicts Body.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4947"></child>
+        </children>
+    </item>
+    <item nodeId="node-4947">
+        <command xml:space="preserve">x convicts pocket</command>
+        <result xml:space="preserve">In Convicts pocket is Fake ID.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4948"></child>
+        </children>
+    </item>
+    <item nodeId="node-4948">
+        <command xml:space="preserve">take fake ID</command>
+        <result xml:space="preserve">Taken.
+
+
+
+    *** You found all the evidence! Now the criminal can face justice. !!YOU WIN!! G A M E  O V E R. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4578">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4579"></child>
+        </children>
+    </item>
+    <item nodeId="node-4579">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening main door)
+It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4580"></child>
+        </children>
+    </item>
+    <item nodeId="node-4580">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4581"></child>
+        </children>
+    </item>
+    <item nodeId="node-4581">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4582"></child>
+        </children>
+    </item>
+    <item nodeId="node-4582">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4585">
+        <command xml:space="preserve">open dooor</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4586"></child>
+        </children>
+    </item>
+    <item nodeId="node-4586">
+        <command xml:space="preserve">open door</command>
+        <result xml:space="preserve">You open main door.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4587"></child>
+        </children>
+    </item>
+    <item nodeId="node-4587">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4588"></child>
+        </children>
+    </item>
+    <item nodeId="node-4588">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Entrance
+You can see main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4589"></child>
+        </children>
+    </item>
+    <item nodeId="node-4589">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4590"></child>
+        </children>
+    </item>
+    <item nodeId="node-4590">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Kitchen
+You can see Volatile chemicals here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4591"></child>
+        </children>
+    </item>
+    <item nodeId="node-4591">
+        <command xml:space="preserve">eat volatile chemicals</command>
+        <result xml:space="preserve">That's plainly inedible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4592"></child>
+        </children>
+    </item>
+    <item nodeId="node-4592">
+        <command xml:space="preserve">take volatile chemicals</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4593"></child>
+        </children>
+    </item>
+    <item nodeId="node-4593">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4594"></child>
+        </children>
+    </item>
+    <item nodeId="node-4594">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4595"></child>
+        </children>
+    </item>
+    <item nodeId="node-4595">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Garage
+You can see Car here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4596"></child>
+        </children>
+    </item>
+    <item nodeId="node-4596">
+        <command xml:space="preserve">take car</command>
+        <result xml:space="preserve">You're not superman dumbass.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4597"></child>
+        </children>
+    </item>
+    <item nodeId="node-4597">
+        <command xml:space="preserve">enter car</command>
+        <result xml:space="preserve">That's not something you can enter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4598"></child>
+        </children>
+    </item>
+    <item nodeId="node-4598">
+        <command xml:space="preserve">open car</command>
+        <result xml:space="preserve">It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4599"></child>
+        </children>
+    </item>
+    <item nodeId="node-4599">
+        <command xml:space="preserve">touch car</command>
+        <result xml:space="preserve">You feel nothing unexpected.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4600"></child>
+        </children>
+    </item>
+    <item nodeId="node-4600">
+        <command xml:space="preserve">x car</command>
+        <result xml:space="preserve">There's nothing on the car's seats, but there is a trunk that you haven't checked
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4601"></child>
+        </children>
+    </item>
+    <item nodeId="node-4601">
+        <command xml:space="preserve">open trunk</command>
+        <result xml:space="preserve">It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4602"></child>
+        </children>
+    </item>
+    <item nodeId="node-4602">
+        <command xml:space="preserve">x trunk</command>
+        <result xml:space="preserve">strange it was left unlocked, theres an unarmed bomb inside
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4603"></child>
+        </children>
+    </item>
+    <item nodeId="node-4603">
+        <command xml:space="preserve">take unarmed bomb</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4604"></child>
+        </children>
+    </item>
+    <item nodeId="node-4604">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4605"></child>
+        </children>
+    </item>
+    <item nodeId="node-4605">
+        <command xml:space="preserve">use bomb</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4606"></child>
+        </children>
+    </item>
+    <item nodeId="node-4606">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4607"></child>
+        </children>
+    </item>
+    <item nodeId="node-4607">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4608"></child>
+        </children>
+    </item>
+    <item nodeId="node-4608">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4609"></child>
+        </children>
+    </item>
+    <item nodeId="node-4609">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Basement
+You can see Convict 1 here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4610"></child>
+        </children>
+    </item>
+    <item nodeId="node-4610">
+        <command xml:space="preserve">fight convict 1</command>
+        <result xml:space="preserve">You attack Convict 1, causing 23 points of damage!
+
+Convict 1 attacks you, causing 18 points of damage!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4611"></child>
+        </children>
+    </item>
+    <item nodeId="node-4611">
+        <command xml:space="preserve">fight convict 1</command>
+        <result xml:space="preserve">You attack Convict 1, causing 33 points of damage!
+
+Convict 1 attacks you, causing 17 points of damage!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4612"></child>
+        </children>
+    </item>
+    <item nodeId="node-4612">
+        <command xml:space="preserve">fight convict 1</command>
+        <result xml:space="preserve">You attack Convict 1, causing 50 points of damage!
+
+Convict 1 lies on the ground dead
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4613"></child>
+        </children>
+    </item>
+    <item nodeId="node-4613">
+        <command xml:space="preserve">x</command>
+        <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4614"></child>
+        </children>
+    </item>
+    <item nodeId="node-4614">
+        <command xml:space="preserve">x convict 1</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4615"></child>
+        </children>
+    </item>
+    <item nodeId="node-4615">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4616"></child>
+        </children>
+    </item>
+    <item nodeId="node-4616">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Basement
+You can see Convicts Body here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4617"></child>
+        </children>
+    </item>
+    <item nodeId="node-4617">
+        <command xml:space="preserve">take convicts body</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4618"></child>
+        </children>
+    </item>
+    <item nodeId="node-4618">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4619"></child>
+        </children>
+    </item>
+    <item nodeId="node-4619">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Attic
+You can see Trunk key here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4536">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Front Lawn
+No point standing out here, time to kick the door in and search the building for evidence!
+
+You can see a main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4537"></child>
+        </children>
+    </item>
+    <item nodeId="node-4537">
+        <command xml:space="preserve">kick main door</command>
+        <result xml:space="preserve">The door swings back instantly killing you
+
+
+    *** G A M E  O V E R. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4538"></child>
+        </children>
+    </item>
+    <item nodeId="node-4538">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">
+
+
+
+You're a rookie cop whos been assigned to raid a criminals stash house for evidence of their crimes. You're looking for a bomb they built, Volatile chemicals they were planning to mix, a Fake ID they were going to use to escape, and a bag of Cocaine they were stashing. Find all the evidence and bring the criminal to justice!
+
+BEAT COP
+An Interactive Fiction by Logan Williamson
+Release 1 / Serial number 250829 / Inform 7 v10.1.2 / D
+
+Front Lawn
+No point standing out here, time to kick the door in and search the building for evidence!
+
+You can see a main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4539">
+        <command xml:space="preserve">kick door</command>
+        <result xml:space="preserve">(main door)
+The door swings back instantly killing you
+
+
+    *** G A M E  O V E R. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4547"></child>
+            <child nodeId="node-4636"></child>
+            <child nodeId="node-4541"></child>
+            <child nodeId="node-4540"></child>
+        </children>
+    </item>
+    <item nodeId="node-4540">
+        <command xml:space="preserve">x front lawn</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4541">
+        <command xml:space="preserve">x Front lawn</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4542"></child>
+        </children>
+    </item>
+    <item nodeId="node-4542">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Front Lawn
+No point standing out here, time to kick the door in and search the building for evidence!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4543"></child>
+        </children>
+    </item>
+    <item nodeId="node-4543">
+        <command xml:space="preserve">kick</command>
+        <result xml:space="preserve">What do you want to kick?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4544"></child>
+        </children>
+    </item>
+    <item nodeId="node-4544">
+        <command xml:space="preserve">kick self</command>
+        <result xml:space="preserve">You is not something you can kick.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4545"></child>
+        </children>
+    </item>
+    <item nodeId="node-4545">
+        <command xml:space="preserve">kick door</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4546"></child>
+        </children>
+    </item>
+    <item nodeId="node-4546">
+        <command xml:space="preserve">kick main door</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4636">
+        <command xml:space="preserve">restart</command>
+        <result xml:space="preserve">
+
+
+
+You're a rookie cop whos been assigned to raid a criminals stash house for evidence of their crimes. You're looking for a bomb they built, Volatile chemicals they were planning to mix, a Fake ID they were going to use to escape, and a bag of Cocaine they were stashing. Find all the evidence and bring the criminal to justice!
+
+BEAT COP
+An Interactive Fiction by Logan Williamson
+Release 1 / Serial number 250910 / Inform 7 v10.1.2 / D
+
+Front Lawn
+No point standing out here, time to kick the door in and search the building for evidence!
+
+You can see main door and Fake Rock (in which is Door Key) here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4637"></child>
+        </children>
+    </item>
+    <item nodeId="node-4637">
+        <command xml:space="preserve">x rock</command>
+        <result xml:space="preserve">In Fake Rock is Door Key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4638"></child>
+        </children>
+    </item>
+    <item nodeId="node-4638">
+        <command xml:space="preserve">take</command>
+        <result xml:space="preserve">What do you want to take?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4639"></child>
+        </children>
+    </item>
+    <item nodeId="node-4639">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4640"></child>
+        </children>
+    </item>
+    <item nodeId="node-4640">
+        <command xml:space="preserve">kick door</command>
+        <result xml:space="preserve">(Door Key)
+Door Key is not something you can kick.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4547">
+        <command xml:space="preserve">hit door</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4548"></child>
+        </children>
+    </item>
+    <item nodeId="node-4548">
+        <command xml:space="preserve">kick</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4549"></child>
+        </children>
+    </item>
+    <item nodeId="node-4549">
+        <command xml:space="preserve">kick door</command>
+        <result xml:space="preserve">I only understood you as far as wanting to kick.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4550">
+        <command xml:space="preserve">kick</command>
+        <result xml:space="preserve">What do you want to kick?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4551"></child>
+        </children>
+    </item>
+    <item nodeId="node-4551">
+        <command xml:space="preserve">kick door</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4552">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4553"></child>
+        </children>
+    </item>
+    <item nodeId="node-4553">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">(first opening main door)
+
+Entrance
+You can see main door here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4562"></child>
+            <child nodeId="node-4554"></child>
+        </children>
+    </item>
+    <item nodeId="node-4554">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 1
+Another room of gateways to other rooms, the Kitchen is to the North with a garage to the South and more hallway ahead to the West
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4555"></child>
+        </children>
+    </item>
+    <item nodeId="node-4555">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Hall 2
+The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4556"></child>
+        </children>
+    </item>
+    <item nodeId="node-4556">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Livingroom
+There's not much here apart from a couch and countless empty beer bottles. There's two sets of stairs, one going Down to the Basement and one going Up to the Attic
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4557"></child>
+        </children>
+    </item>
+    <item nodeId="node-4557">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">
+Basement
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4558"></child>
+        </children>
+    </item>
+    <item nodeId="node-4558">
+        <command xml:space="preserve">attack convict</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4559"></child>
+        </children>
+    </item>
+    <item nodeId="node-4559">
+        <command xml:space="preserve">attack Convict</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4560"></child>
+        </children>
+    </item>
+    <item nodeId="node-4560">
+        <command xml:space="preserve">attack</command>
+        <result xml:space="preserve">What do you want to attack?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4561"></child>
+        </children>
+    </item>
+    <item nodeId="node-4561">
+        <command xml:space="preserve">attack convict</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-4562">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Bathroom
+Take a shit and leave
+
+You can see a toilet that can be sat on here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-4563"></child>
+        </children>
+    </item>
+    <item nodeId="node-4563">
+        <command xml:space="preserve">sit on toilet</command>
+        <result xml:space="preserve">That's not something you can sit down on.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
