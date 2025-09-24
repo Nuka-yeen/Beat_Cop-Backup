@@ -76,11 +76,15 @@ Entrance is east of Hall 1.
 
 [time bomb mechanic]
 
-[Need it so if the player dosen't deactivate the bomb in X turns the game ends]
+every turn:
+	if player is not carrying a timebomb exactly 22 turns:
+		end the story saying "The ground shakes as the house explodes into a mess of splinters and debris, the blast kills you instantly. now there can't be any justice! [line break] G A M E  O V E R".
+		
+[\/\/\/ tweak this refinement crap later, it's not crucial to the game right now \/\/\/]
 
-	[Dialoge for bomb ending
-	 "It seems there was a bomb hidden in the house, you didn't deactivate it in time to prevent it from blowing up.":
-    end the story saying "G A M E  O V E R.".]
+[if the player takes A Timebomb:
+	say "You pick up the timebomb and quickly difuse it before putting it into your pocket for evidence.";
+	then continue the action.]
 
 
 [Devices]
@@ -99,8 +103,6 @@ switching on.
 After deciding the scope of the player when the location is Closet:
 	place Cord 2 in scope;
 	place Cord 1 in scope;
- 
-[read on how to lock and unlock the stupid doors!]
 
 Entrance Key unlocks main door.
 Entrance Key is inside fake rock.
@@ -154,7 +156,7 @@ Car is in Garage.
 instead of examining Car, say "There's nothing on the car's seats, but there is a trunk that you haven't checked".
 Car Trunk is a part of car.
 Car Trunk is a locked openable container.
-A Bomb is inside Trunk.
+A Timebomb is inside Car Trunk.
 
 Trunk key unlocks Car Trunk.
 Trunk key is in Attic.
@@ -183,7 +185,7 @@ instead of examining cocaine, say "looks like you can eat it?".
 instead of eating cocaine, say "Are YOU the criminal?"
 
 [Win condition]
-Every turn, if player carries the Bomb and player carries Fake ID and player carries Cocaine and player carries Volatile Chemicals, end the story saying "You found all the evidence! Now the criminal can face justice. !!YOU WIN!! G A M E  O V E R."
+Every turn, if player carries A Timebomb and player carries Fake ID and player carries Cocaine and player carries Volatile Chemicals, end the story saying "You found all the evidence! Now the criminal can face justice. !!YOU WIN!! G A M E  O V E R."
 
 [Health]
 
