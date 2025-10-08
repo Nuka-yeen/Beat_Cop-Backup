@@ -15,21 +15,21 @@ Instead of opening Cabinets:
     end the story saying "G A M E  O V E R".
 
 	
-Scratched Tile is a closed container.
-Scratched Tile is in Kitchen
+Scratched Tile is a closed openable container.
+Scratched Tile is in Kitchen.
 hidden compartment is inside Scratched Tile.
-hidden compartment is a container.
+hidden compartment is an openable container.
 Rifle is a thing.
 Car is a thing.
 Instead of taking Car, say "You're not superman dumbass."
-Convicts Body is a thing. "Yep, they're dead. maybe they were hiding something on their person?"
+Convicts Body is a thing. "Yep, they're dead. maybe they were hiding something on their person? I guess you should examine the body".
 Convicts Body is nowhere.
 
 [containers]
 Convicts pockets is a container.
-Convicts pockets is a part of Convicts Body.
+Convicts pockets is a part of Convicts Body."Seems like there's something in their pocket".
 Fake ID is in Convicts pockets.
-The Fake Rock is a closed openable container that is fixed in place.
+The Fake Rock is a closed openable container.
 instead of examining The Fake Rock, say "It seems like a plastic rock made for storing a spare key".
 The Fake Rock is in Front Lawn.
 
@@ -48,13 +48,13 @@ Hall 1 is a room. "Another room of gateways to other rooms, the Kitchen is to th
 
 Hall 2 is a room. "The room of gateways to other rooms, to the North is the Livingroom with a Bedroom to the West and more hallway behind you to the East".
 
-Entrance is a room.
+Entrance is a room. "The hall lies ahead to the west, the entrance sits behind you to the east".
 
-Kitchen is a room.
+Kitchen is a room. "Hardly stocked and an absolute mess with all manner of bottles and rotting take out leftovers sitting around".
 
-Garage is a room.
+Garage is a room. "Blank walls and sparse tools litter the room with an armored sedan sitting in the center".
 
-Attic is a room.
+Attic is a room. "Just a small crawl space devoid of boxes".
 
 Basement is a room.
 
@@ -77,7 +77,8 @@ Entrance is east of Hall 1.
 [time bomb mechanic]
 
 every turn:
-	if player is not carrying a timebomb exactly 22 turns:
+	if player is not carrying a timebomb, say "A strange ticking noise fills the air";
+	if player is not carrying a timebomb exactly 23 turns:
 		end the story saying "The ground shakes as the house explodes into a mess of splinters and debris, the blast kills you instantly. now there can't be any justice! [line break] G A M E  O V E R".
 		
 [\/\/\/ tweak this refinement crap later, it's not crucial to the game right now \/\/\/]
@@ -108,7 +109,7 @@ Entrance Key unlocks main door.
 Entrance Key is inside fake rock.
 
 [People]
-Convict is a person.
+Convict is a person. "They seem intent on killing you and fleeing the law".
 
 [people placement]
 Convict is in the Basement
